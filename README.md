@@ -204,7 +204,8 @@ GROUP BY 1;
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
 ## Author
-- **NAGASHREE D**
+**NAGASHREE D**
+
 This project is part of my SQL portfolio, showcasing SQL skills essential for data analyst roles.
 
 ## Tools Used
